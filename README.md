@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Nascimento 👋
 
-### I'm a Brazilian, Developer and Life Enthusiast!!
+### Sou Brasileiro, Desenvolvedor e Entusiasta da Vida!!!!
 
 🧑‍💼 As pessoas me chamam de Leodatadev, atualmente participando do Capgemini Fullstack Java and Angular remoto ao vivo de 117 hrs em tempo integral em DIO. Sou um entusiasta da tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas.
 
