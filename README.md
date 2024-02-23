@@ -2,7 +2,7 @@
 
 ### Sou Brasileiro, Desenvolvedor e Entusiasta da Vida!!!!
 
-🧑‍💼 As pessoas me chamam de Leodatadev, atualmente participando do Capgemini Fullstack Java and Angular remoto ao vivo de 117 hrs em tempo integral em DIO. Sou um entusiasta da tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas.
+🧑‍💼 As pessoas me chamam de Leodatadev, atualmente participando do Capgemini Fullstack Java and Angular remoto ao vivo de 117 hrs em tempo integral em DIO. Sou um entusiasta da tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas. (OBS: Estou dando uma repaginada aqui e subindo meus projetos e atualizando meu GITHUB tah)
 
 ### Languages and Tools:
 <div style="display: inline_block">
