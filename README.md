@@ -2,7 +2,15 @@
 
 ### Sou Brasileiro, Desenvolvedor e Entusiasta da Vida!!!!
 
-🧑‍💼 As pessoas me chamam de Leodatadev, atualmente participando do Capgemini Fullstack Java and Angular remoto ao vivo de 117 hrs em tempo integral em DIO. Sou um entusiasta da tecnologia e um defensor do código aberto. Estou sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas. **(OBS: Estou dando uma repaginada aqui, subindo meus projetos e atualizando meu GITHUB tah).**
+🧑‍💼 As pessoas me chamam de Leodatadev, sou um profissional em período de transição de carreira dentro da área de tecnologia, trazendo uma paixão genuína e um firme compromisso em aprender e evoluir constantemente. Com uma base sólida em análise de dados e agora imerso no mundo Quality Assurance (QA) e desenvolvimento de software, estou pronto para enfrentar novos desafios e me destacar.
+
+Minha experiência de 3 anos como Analista de Dados me ensinou a importância da precisão e da atenção aos detalhes, habilidades que pretendo aplicar agora em minha transição para QA. Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, Junit, Cypress, SQL, CI/CD, JIRA e Git, estou ansioso para aprimorar essas habilidades e aprender mais sobre o mundo do desenvolvimento de software.
+
+Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular, áreas que estou determinado a explorar mais a fundo e dominar. Minha disposição para aprender rapidamente e minha ética de trabalho incansável me capacitam a enfrentar desafios de frente e superá-los com determinação.
+
+Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
+
+Estou animado para mergulhar de cabeça em novas oportunidades, aprender com os melhores da área e pronto para abraçar os desafios que estão por vir e ansioso para fazer parte de uma equipe que valoriza o crescimento e o desenvolvimento contínuo. **(OBS: Estou dando uma repaginada aqui, subindo meus projetos e atualizando meu GITHUB tah).**
 
 ### Languages and Tools:
 <div style="display: inline_block">
