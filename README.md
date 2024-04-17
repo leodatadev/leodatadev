@@ -2,15 +2,14 @@
 
 ### Sou Brasileiro, Desenvolvedor e Entusiasta da Vida!!!!
 
-🧑‍💼 As pessoas me chamam de Leodatadev, sou um profissional em período de transição de carreira dentro da área de tecnologia, trazendo uma paixão genuína e um firme compromisso em aprender e evoluir constantemente. Com uma base sólida em análise de dados e agora imerso no mundo Quality Assurance (QA) e desenvolvimento de software, estou pronto para enfrentar novos desafios e me destacar.
+🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, entre outras.
 
-Minha experiência de 3 anos como Analista de Dados me ensinou a importância da precisão e da atenção aos detalhes, habilidades que pretendo aplicar agora em minha transição para QA. Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, Junit, Cypress, SQL, CI/CD, JIRA e Git, estou ansioso para aprimorar essas habilidades e aprender mais sobre o mundo do desenvolvimento de software.
+Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, com especialidade em Java, SQL, Testes de software e JIRA, me especializar na área de Teste e Qualidade de Software. Minha atual ambição é realizar minha transição de carreira para a área de QA - Quality Assurance, conseguindo minha primeira experiência na área. 
 
-Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular, áreas que estou determinado a explorar mais a fundo e dominar. Minha disposição para aprender rapidamente e minha ética de trabalho incansável me capacitam a enfrentar desafios de frente e superá-los com determinação.
+Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, Junit, Cypress, SQL, CI/CD, JIRA e Git. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
+Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. 
 
-Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
-
-Estou animado para mergulhar de cabeça em novas oportunidades, aprender com os melhores da área e pronto para abraçar os desafios que estão por vir e ansioso para fazer parte de uma equipe que valoriza o crescimento e o desenvolvimento contínuo. **(OBS: Estou dando uma repaginada aqui, subindo meus projetos e atualizando meu GITHUB tah).**
+Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
 
 ### Languages and Tools:
 <div style="display: inline_block">
