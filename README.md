@@ -4,7 +4,7 @@
 
 🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, entre outras.
 
-Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, com especialidade em Java, SQL, Testes de software e JIRA, me especializar na área de Teste e Qualidade de Software. Minha atual ambição é realizar minha transição de carreira para a área de QA - Quality Assurance, conseguindo minha primeira experiência na área. 
+Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, com especialidade em Java, SQL, Testes de software e JIRA, me especializar na área de Teste e Qualidade de Software. Atualmente, estou focado em consolidar minha carreira na área de QA - Garantia e Qualidade de Software. 
 
 Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, Junit, Cypress, SQL, CI/CD, JIRA e Git. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
 Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. 
