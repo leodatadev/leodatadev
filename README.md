@@ -2,7 +2,7 @@
 
 ### Sou Brasileiro, Analista de Teste-QA e Entusiasta da Vida!!!!
 
-🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, entre outras.
+🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, Volkswagen, Chevrolet, entre outras.
 
 Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, onde aplico meus conhecimentos em Java, SQL, Testes de Software e JIRA. Estou focado em me especializar na área de Teste e Qualidade de Software (QA).
 
