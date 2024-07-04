@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Nascimento 👋
 
-### Sou Brasileiro, Desenvolvedor e Entusiasta da Vida!!!!
+### Sou Brasileiro, Analista de Teste-QA e Entusiasta da Vida!!!!
 
 🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, entre outras.
 
