@@ -4,9 +4,9 @@
 
 🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, entre outras.
 
-Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, com conhecimento em Testes de software. Atualmente, estou focado em consolidar minha carreira na área de Teste e Qualidade de Software QA - Garantia e Qualidade de Software. 
+Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, onde aplico meus conhecimentos em Java, SQL, Testes de Software e JIRA. Estou focado em me especializar na área de Teste e Qualidade de Software (QA).
 
-Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, Junit, Cypress, SQL, CI/CD, JIRA e Git. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
+Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, JUnit, Cypress, SQL, CI/CD, JIRA e Git. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
 Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. 
 
 Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
@@ -14,15 +14,15 @@ Estou confiante de que minha mentalidade focada em soluções e minha determina�
 ### Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="Leo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Leo-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Leo-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leo-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Leo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Leo-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Leo-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Leo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
 <br>          
