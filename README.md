@@ -9,7 +9,7 @@ Totalmente comprometido em contribuir para equipes de alto desempenho e projetos
 
 Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
 
-Soft Skills:
+Soft Skills:<br>
 Adaptável, Comunicativo, Auto gerenciável, Trabalho em equipe, Criativo, Resolução de problemas, Pensamento analítico, Vontade de aprender.
 
 Ferramentas que utilizei:
@@ -22,7 +22,7 @@ Linguagens que utilizei:
 - JavaScript
 - Python
 
-Outras ferramentas:
+Outras ferramentas:<br>
 Jira, SQL, Git e GitHub.
 
 Frameworks e Metodologias:
