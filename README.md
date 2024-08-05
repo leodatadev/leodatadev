@@ -2,14 +2,32 @@
 
 ### Sou Brasileiro, Analista de Teste-QA e Entusiasta da Vida!!!!
 
-🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Tive passagens nas áreas de Administração, Marketing Digital, Analise de Dados. Posso citar aqui algumas empresas como AE Consultorias Digitais, Prime Soluções Saas, Lider Automação Comercial, Volkswagen, Chevrolet, entre outras.
+🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Sou um profissional apaixonado por tecnologia, com um entusiasmo genuíno e um compromisso firme em aprender e evoluir constantemente. Atualmente, minha rotina divide-se em participar como analista de teste freelance da Crowdtest, onde participo de projetos para plataformas web e mobile executando testes funcionais, reportando bugs e melhorias.
 
-Atualmente, minha rotina divide-se em participar do time DIO CAMPUS EXPERT, onde aplico meus conhecimentos em Java, SQL, Testes de Software e JIRA. Estou focado em me especializar na área de Teste e Qualidade de Software (QA).
-
-Tenho conhecimento em Testes Manuais, Testes de API, Postman, Selenium, JUnit, Cypress, SQL, CI/CD, JIRA e Git. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
+Tenho conhecimento em Testes Manuais, Testes de API com Postman, Selenium WebDriver, JUnit, Cypress, SQL, JIRA, Git e GitHub. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
 Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. 
 
 Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
+
+Soft Skills:
+Adaptável, Comunicativo, Auto gerenciável, Trabalho em equipe, Criativo, Resolução de problemas, Pensamento analítico, Vontade de aprender.
+
+Ferramentas que utilizei:
+- Selenium WebDriver
+- Cypress
+- Postman
+
+Linguagens que utilizei:
+- Java
+- JavaScript
+- Python
+
+Outras ferramentas:
+Jira, SQL, Git e GitHub.
+
+Frameworks e Metodologias:
+- Agile (Scrum e Kanban)
+
 
 ### Languages and Tools:
 <div style="display: inline_block">
