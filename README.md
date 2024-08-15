@@ -19,7 +19,7 @@ Linguagens que utilizei:
 - Java, JavaScript e Python
 
 Outras ferramentas:<br>
-Jira, SQL, Git e GitHub.
+- Jira, SQL, Git e GitHub.
 
 Frameworks e Metodologias:
 - Agile (Scrum e Kanban)
