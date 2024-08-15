@@ -13,14 +13,10 @@ Soft Skills:<br>
 Adaptável, Comunicativo, Auto gerenciável, Trabalho em equipe, Criativo, Resolução de problemas, Pensamento analítico, Vontade de aprender.
 
 Ferramentas que utilizei:
-- Selenium WebDriver
-- Cypress
-- Postman
+- Selenium WebDriver, Cypress e Postman
 
 Linguagens que utilizei:
-- Java
-- JavaScript
-- Python
+- Java, JavaScript e Python
 
 Outras ferramentas:<br>
 Jira, SQL, Git e GitHub.
