@@ -2,12 +2,13 @@
 
 ### Sou Brasileiro, Analista de Teste-QA e Entusiasta da Vida!!!!
 
-🧑‍💼 Homem pardo, carioca, marido da Kamila e graduando em Analise e Desenvolvimento de Sistemas. Sou um profissional apaixonado por tecnologia, com um entusiasmo genuíno e um compromisso firme em aprender e evoluir constantemente. Atualmente, minha rotina divide-se em participar como analista de teste freelance da Crowdtest, onde participo de projetos para plataformas web e mobile executando testes funcionais, reportando bugs e melhorias.
+🧑‍💼 Sou Analista de Teste-QA brasileiro, apaixonado por tecnologia e comprometido com o aprendizado contínuo e a evolução profissional. Com 2 anos de experiência em análise de dados, desenvolvi uma sólida atenção aos detalhes e precisão, agora aplicadas à Garantia e Qualidade de Software (QA).
 
-Tenho conhecimento em Testes Manuais, Testes de API com Postman, Selenium WebDriver, JUnit, Cypress, SQL, JIRA, Git e GitHub. Além disso, possuo entendimento em HTML, CSS, JavaScript, Node.js, Java e Angular.
-Totalmente comprometido em contribuir para equipes de alto desempenho e projetos de sucesso. 
+Meu papel como Analista de Teste/QA sempre será garantir a qualidade do software ao longo do ciclo de desenvolvimento, aplicando conceitos de shift left testing e aprimorando processos dentro do SDLC (Ciclo de Vida de Desenvolvimento de Software). Tenho um perfil hands-on e facilidade para aprender novas tecnologias, regras de negócio e práticas de qualidade.
 
-Estou confiante de que minha mentalidade focada em soluções e minha determinação em alcançar resultados me tornarão um ativo valioso para qualquer equipe.
+Possuo conhecimento em Testes Manuais e Automatizados, utilizando ferramentas como Selenium WebDriver, JUnit, Java, JavaScript com Cypress, JIRA para gestão de atividades, e Git/GitHub para versionamento de código. Além disso possuo entendimento em Teste de API com Postman e SQL para bancos de dados relacionais.
+
+Sou adaptável, comunicativo, e auto gerenciável, com forte capacidade de resolver problemas e trabalhar em equipe. Estou focado em soluções e determinado a alcançar resultados, o que me torna um ativo valioso para qualquer projeto. No meu tempo livre, busco aprimorar minhas habilidades e expandir meu conhecimento em QA e desenvolvimento de software.
 
 Soft Skills:<br>
 Adaptável, Comunicativo, Auto gerenciável, Trabalho em equipe, Criativo, Resolução de problemas, Pensamento analítico, Vontade de aprender.
