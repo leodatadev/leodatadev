@@ -2,25 +2,16 @@
 
 ### Sou Brasileiro, Analista de Teste-QA e Entusiasta da Vida!!!!
 
-🧑‍💼 Sou Analista de Teste-QA brasileiro, apaixonado por tecnologia e comprometido com o aprendizado contínuo e a evolução profissional. Com 2 anos de experiência em análise de dados, desenvolvi uma sólida atenção aos detalhes e precisão, agora aplicadas à Garantia e Qualidade de Software (QA).
+Sou brasileiro, carioca. Profissional com experiência em Automação de Marketing Digital, Integração de Sistemas e Gestão de Processos. Em minha última atuação, trabalhei na ZX LAB – Agência de IA, onde fui responsável pela automação de marketing utilizando ferramentas como SellFlux e AI SPEAK, integração de sistemas via Webhooks, criação de fluxos no CRM Kommo, Typebot e Evolution API, além de desenvolver copies persuasivas para campanhas de marketing.
 
-Meu papel como Analista de Teste/QA sempre será garantir a qualidade do software ao longo do ciclo de desenvolvimento, aplicando conceitos de shift left testing e aprimorando processos dentro do SDLC (Ciclo de Vida de Desenvolvimento de Software). Tenho um perfil hands-on e facilidade para aprender novas tecnologias, regras de negócio e práticas de qualidade.
+Graduando em Análise e Desenvolvimento de Sistemas, tenho passagem por Administração, Marketing Digital e Análise de Dados, além de conhecimentos em QA e Testes de Software. Possuo expertise em CRM Kommo, Typebot, Evolution API e conhecimento na ferramenta N8N, sempre focado em otimização, inovação e aprendizado contínuo.
 
 Possuo conhecimento em Testes Manuais e Automatizados, utilizando ferramentas como Selenium WebDriver, JUnit, Java, JavaScript com Cypress, JIRA para gestão de atividades, e Git/GitHub para versionamento de código. Além disso possuo entendimento em Teste de API com Postman e SQL para bancos de dados relacionais.
 
 Sou adaptável, comunicativo, e auto gerenciável, com forte capacidade de resolver problemas e trabalhar em equipe. Estou focado em soluções e determinado a alcançar resultados, o que me torna um ativo valioso para qualquer projeto. No meu tempo livre, busco aprimorar minhas habilidades e expandir meu conhecimento em QA e desenvolvimento de software.
 
-Soft Skills:<br>
-Adaptável, Comunicativo, Auto gerenciável, Trabalho em equipe, Criativo, Resolução de problemas, Pensamento analítico, Vontade de aprender.
-
-Ferramentas que utilizei:
-- Selenium WebDriver, Cypress e Postman
-
-Linguagens que utilizei:
-- Java, JavaScript e Python
-
-Outras ferramentas:<br>
-- Jira, SQL, Git e GitHub.
+Soft Skills:
+Adaptabilidade, Comunicação, Autogestão, Trabalho em equipe, Criatividade, Resiliência, Resolução de problemas, Pensamento analítico, Vontade de aprender.
 
 Frameworks e Metodologias:
 - Agile (Scrum e Kanban)
