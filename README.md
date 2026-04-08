@@ -1,17 +1,17 @@
 ## Olá! Eu sou o Leonardo Nascimento 👋
 
-### Sou Brasileiro, Analista de Teste-QA e Entusiasta da Vida!!!!
+### Sou Brasileiro, apaixonado por tecnologia!!!!
 
-Sou brasileiro, carioca. Profissional com experiência em Automação de Marketing Digital, Integração de Sistemas e Gestão de Processos. Em minha última atuação, trabalhei na ZX LAB – Agência de IA, onde fui responsável pela automação de marketing utilizando ferramentas como SellFlux e AI SPEAK, integração de sistemas via Webhooks, criação de fluxos no CRM Kommo, Typebot e Evolution API, além de desenvolver copies persuasivas para campanhas de marketing.
+Atualmente faço parte da equipe de sustentação do sistema Uniplus, plataforma de automação para Redes de Mercados, Atacado, Varejo e Serviços, realizando implantação, suporte técnico e validação funcional dos módulos PDV, Financeiro, Estoque, Compras, Cotação, Açougue, Fiscal, Notas de Entrada e Notas de Saída.
 
-Graduando em Análise e Desenvolvimento de Sistemas, tenho passagem por Administração, Marketing Digital e Análise de Dados, além de conhecimentos em QA e Testes de Software. Possuo expertise em CRM Kommo, Typebot, Evolution API e conhecimento na ferramenta N8N, sempre focado em otimização, inovação e aprendizado contínuo.
+Graduando em Análise e Desenvolvimento de Sistemas, tenho passagem por setor de Administração e Marketing Digital. Possuo expertise em CRM Kommo, Typebot, Evolution API e conhecimento na ferramenta N8N, sempre focado em otimização, inovação e aprendizado contínuo.
 
-Possuo conhecimento em Testes Manuais e Automatizados, utilizando ferramentas como Selenium WebDriver, JUnit, Java, JavaScript com Cypress, JIRA para gestão de atividades, e Git/GitHub para versionamento de código. Além disso possuo entendimento em Teste de API com Postman e SQL para bancos de dados relacionais.
+Possuo conhecimento em Testes Manuais e Automatizados, utilizando ferramentas como Selenium WebDriver, JavaScript com Cypress, JIRA para gestão de atividades, e Git/GitHub para versionamento de código.
 
-Sou adaptável, comunicativo, e auto gerenciável, com forte capacidade de resolver problemas e trabalhar em equipe. Estou focado em soluções e determinado a alcançar resultados, o que me torna um ativo valioso para qualquer projeto. No meu tempo livre, busco aprimorar minhas habilidades e expandir meu conhecimento em QA e desenvolvimento de software.
+Estou focado em soluções e determinado a alcançar resultados. No meu tempo livre, busco aprimorar minhas habilidades e expandir meu conhecimento em QA e desenvolvimento de software.
 
 Soft Skills:
-Adaptabilidade, Comunicação, Autogestão, Trabalho em equipe, Criatividade, Resiliência, Resolução de problemas, Pensamento analítico, Vontade de aprender.
+Adaptabilidade, Comunicativo, Trabalho em equipe, Criatividade, Resiliência, Resolução de problemas, Pensamento analítico, Vontade de aprender.
 
 Frameworks e Metodologias:
 - Agile (Scrum e Kanban)
